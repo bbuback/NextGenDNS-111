@@ -7,8 +7,8 @@ The BIG-IP will now be an authoratative slave for the example.com zone.  This pr
 
    .. image:: /_static/class2/DNS_Express_result1.png
 
-#. Using putty from the taskbar, log in to router01.branch01.example.com.
-
+#. Using putty from the taskbar, log in to router01.branch01.example.com using u: root p: default 
+ 
   Run the following command to see the contents of the DNS Express database:
 
    .. code-block:: console

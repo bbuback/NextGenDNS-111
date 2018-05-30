@@ -9,7 +9,7 @@ Results
 
       dig www.f5.com
       dig www.wikipedia.org
-      dig www.ncsu.edu
+      dig www.umich.edu
       dig www.example.com
 
 #. Viewing Cache Entries

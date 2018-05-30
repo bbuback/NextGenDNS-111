@@ -23,6 +23,8 @@ Click on the DNS-query-filtering iRule and add new filtering category "News_and_
 
 .. image:: /_static/class2/news.png 
 
+Try opening a web broswer and navigating to www.foxnews.com
+
 From the Workstation command prompt run "dig cnn.com" and check for the results
 
 .. image:: /_static/class2/cnn.png 

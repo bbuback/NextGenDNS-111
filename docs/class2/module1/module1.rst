@@ -18,7 +18,7 @@ Enabling a transparent cache on the BIG-IP will offload some DNS queries from be
 
 .. image:: /_static/class2/transparent_cache_enabled.png
 
-Log into the gateway device router01.brancho1 in the **branch office**
+Log into the gateway device bigip01 in the **branch office**
 
 Navigate to **DNS  ››  Caches : Cache List**
 
