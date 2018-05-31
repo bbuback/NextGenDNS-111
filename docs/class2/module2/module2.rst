@@ -9,7 +9,7 @@ Note: the Workstation is configured to use 10.1.20.200 and 10.1.20.210 for DNS.
 
 After this module students will have enabled the BIG-IP to intercept and cache DNS requests.
 
-.. image:: /_static/class2/class2_create_listenerVIPS.png
+.. image:: /_static/class2/listeners.png
 
 .. toctree::
    :maxdepth: 2

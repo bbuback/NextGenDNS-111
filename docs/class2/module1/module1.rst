@@ -12,11 +12,11 @@ In this module we will prepare the objects required to build a transparent cache
 
 In the next exercise a DNS profile will reference the cache and a Listener will forward traffic to a healthy backend DNS server
 
-.. image:: /_static/class2/before_transparent_cache.png
+.. image:: /_static/class2/before_cache.png
 
 Enabling a transparent cache on the BIG-IP will offload some DNS queries from being sent to the internal DNS servers.
 
-.. image:: /_static/class2/transparent_cache_enabled.png
+.. image:: /_static/class2/transparentcache_enabled.png
 
 Log into the gateway device bigip01 in the **branch office**
 

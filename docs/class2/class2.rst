@@ -5,7 +5,7 @@ The lab environment consists of a Lan of workstations in a remote location with 
 
 The F5 device is directly connected to the internet.
 
-.. image:: /_static/class2/class2_overview.png
+.. image:: /_static/class2/class2_net_overview.png
 
 Students will work with the following concepts as part of a group of lab exercises.
 

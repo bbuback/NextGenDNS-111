@@ -12,9 +12,9 @@ Configure a validating resolver cache on the BIG-IP® system to recursively quer
 
 After completing this lab students will entirely offload DNS queries from internal masters.
 
-.. image:: /_static/class2/class2_validating-resolver.png
+.. image:: /_static/class2/validating_resolver.png
 
-.. image:: /_static/class2/class2_validating-resolver2.png
+.. image:: /_static/class2/validating_resolver_whitehouse.png
 
 Navigate to **DNS  ››  Caches : Cache List**
 
