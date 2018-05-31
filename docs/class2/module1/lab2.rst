@@ -22,7 +22,7 @@ Create a pool according to the following table:
    "2. Address", "10.1.20.210"
    "2. Service Port", "53"
 
-.. image:: /_static/class2/class2_create_dns_pool_properties.png
+.. image:: /_static/class2/create_pool.png
 
 https://router01.branch01.example.com/tmui/Control/jspmap/tmui/dns/pool/create.jsp
 
