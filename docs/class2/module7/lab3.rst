@@ -9,7 +9,7 @@ From the Workstation command prompt run "dig example.com" and check for the resu
 
 .. image:: /_static/class2/examplecom.png
 
-From the Workstation command prompt run "dig porno.com" and check for the results
+From the Workstation command prompt run "dig sex.com" and check for the results
  
 .. image:: /_static/class2/pornocom.png
 
@@ -27,4 +27,4 @@ Try opening a web broswer and navigating to www.foxnews.com
 
 From the Workstation command prompt run "dig cnn.com" and check for the results
 
-.. image:: /_static/class2/cnn.png 
+.. image:: /_static/class2/url_filtering.png 
