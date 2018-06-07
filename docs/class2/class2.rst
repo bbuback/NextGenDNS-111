@@ -1,4 +1,4 @@
-Class 2 - Advanced GSLB
+Class 2 - Next Generation DNS Services 
 ======================================================
 
 The lab environment consists of a Lan of workstations in a remote location with internal DNS servers behind an F5 firewall.

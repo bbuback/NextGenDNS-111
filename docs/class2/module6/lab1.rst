@@ -28,7 +28,7 @@ Create a zone according to the following table:
    "NS Record: TTL", "300"
    "NS Record: Nameserver", "router01.branch01.example.com."
    "Create A Record", "Checked - Enabled"
-   "A Record: IP Address", "10.1.71.1"
+   "A Record: IP Address", "10.1.20.252"
 
 .. image:: /_static/class2/zonerunner_create_zone_properties.png
 

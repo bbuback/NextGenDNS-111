@@ -14,12 +14,6 @@ Results
 
 #. Viewing Cache Entries
 
-   Navigate to: **DNS  ››  Caches : Cache List  ››  Properties : transparent_cache**
-
-   .. image:: /_static/class2/router01_cache_select_statistics.png
-
-   https://router01.branch01.example.com/tmui/Control/jspmap/tmui/dns/cache/properties.jsp?name=%2FCommon%2Ftransparent_cache
-
    Navigate to: **Statistics  ››  Module Statistics : DNS : Caches  ››  Caches**
 
    .. image:: /_static/class2/router01_cache_click_view.png

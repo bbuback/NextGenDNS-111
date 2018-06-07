@@ -3,7 +3,9 @@ Trust Anchors
 
 Create a trust anchor to validate content in a DNS response.
 
-Using a terminal emulator window, ssh into router01.branch01 and run the following commands:
+Using a terminal emulator window, ssh into router01.branch01 (10.1.10.245) and run the following commands:
+
+.. image:: /_static/class2/ssh.png
 
 .. admonition:: TMSH
 

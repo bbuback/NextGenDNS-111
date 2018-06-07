@@ -37,7 +37,8 @@ Create two TCP listeners according to the table below:
    "DNS Profile", "example.com_dns_profile"
    "Pool", "branch01_dns_pool"
 
-.. image:: /_static/class2/router01_create_virtual_tcp_properties.png
+.. image:: /_static/class2/tcp_listener.png
+.. image:: /_static/class2/tcp_listener_profile.png
 
 https://router01.branch01.example.com/tmui/Control/jspmap/tmui/dns/listener/create.jsp
 

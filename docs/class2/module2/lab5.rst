@@ -17,7 +17,7 @@ Create two UDP listeners according to the tables below:
 
    "Name", "DC01_udp_53_virtual"
    "Destination Address", "10.1.20.200"
-   "Service Port", "DNS 53"
+   "Service Port (Advanced Settings)", "DNS 53"
    "VLAN and Tunnel Traffic -> Enabled on..", "branch01_vlan"
    "Protocol", "UDP"
    "Protocol Profile (Client)", "example.com_udp-dns_profile"
@@ -30,14 +30,15 @@ Create two UDP listeners according to the tables below:
 
    "Name", "DC02_udp_53_virtual"
    "Destination Address", "10.1.20.210"
-   "Service Port", "DNS 53"
+   "Service Port (Advanced Settings)", "DNS 53"
    "VLAN and Tunnel Traffic -> Enabled on..", "branch01_vlan"
    "Protocol", "UDP"
    "Protocol Profile (Client)", "example.com_udp-dns_profile"
    "DNS Profile", "example.com_dns_profile"
    "Default Pool", "branch01_dns_pool"
 
-.. image:: /_static/class2/router01_create_virtual_udp_properties.png
+.. image:: /_static/class2/udp_listener.png
+.. image:: /_static/class2/udp_listener_profile.png
 
 https://router01.branch01.example.com/tmui/Control/jspmap/tmui/locallb/virtual_server/create.jsp
 

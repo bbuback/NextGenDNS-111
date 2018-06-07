@@ -16,7 +16,7 @@ Create a nameserver according to the following table:
    "Name", "dc01.example.com"
    "Address", "10.1.20.200"
 
-.. image:: /_static/class2/create_nameserver_dc01.png
+.. image:: /_static/class2/nameserver.png
 
 https://router01.branch01.example.com/tmui/Control/jspmap/tmui/dns/nameserver/create.jsp
 

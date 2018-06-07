@@ -16,6 +16,7 @@ Create a DNS Express zone according to the following table:
    "Name", "rpz.example.com"
    "Server", "localhost"
    "Allow NOTIFY From", "127.0.0.1"
+   "Verify Notify TSIG", "un-checked"
    "Response Policy", "checked"
 
 .. image:: /_static/class2/create_dnsxpress_zone.png

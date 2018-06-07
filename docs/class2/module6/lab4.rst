@@ -21,9 +21,9 @@ Create a local zone entry according to the following table:
 
    "Name", "sorry.example.com"
    "Type", "Static"
-   "Records", "sorry.example.com. IN A 10.1.71.21"
+   "Records", "sorry.example.com. IN A 10.1.20.252"
 
-.. image:: /_static/class2/create_localzone_entry.png
+.. image:: /_static/class2/local_zone.png
 
 TMSH commands for router01.branch01:
 

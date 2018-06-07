@@ -1,7 +1,7 @@
 Monitors
 ####################################
 
-A DNS application specific health monitor provides intelligence in the steering DNS queries towards the fastest responding DNS server.
+A DNS application specific health monitor provides intelligence in the steering of DNS queries towards the fastest responding DNS server.
 
 .. image:: /_static/class2/monitors.png
 
