@@ -1,36 +1,19 @@
 Credits
 =======
 
-- Agility 2017:
+- Agility 2018:
 
-   Bill Wester
-
-   Boris Gekhtman
-
-   Brendan Gladney
-
+   Adam Bradley
+   
    Brian Buback
 
-   Emilio Torres
-
-   Dave Doucette
-
-   Josh Anderson
-
+   David Mais
+   
+   Stuart McMath
+   
    Robin Mordasiewicz
 
+   Rodney Newton
 
-- Advisors:
-
-   Hitesh Patel
-
-   Joe Hermes
-
-   Jonathan Dehaan
-
-   Pat Chang
-
-   Pat Fiorino
-
-   Brian Van Lieu
+   Brad Otlin
 
