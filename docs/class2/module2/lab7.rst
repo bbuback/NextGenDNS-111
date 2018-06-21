@@ -14,11 +14,11 @@ Results
 
 #. Viewing Cache Entries
 
-   Navigate to: **Statistics  ››  Module Statistics : DNS : Caches  ››  Caches**
+   Navigate to: **Statistics  ››  Module Statistics : DNS : Caches  ››  Caches** and then choose **Caches** from the 'Statistics Type' drop-down. 
 
    .. image:: /_static/class2/router01_cache_click_view.png
 
-   Navigate to: **Statistics  ››  Module Statistics : DNS : Caches  ››  Caches : transparent_cache**
+   Examine the Query, Failure, and Cache details below.
 
    .. image:: /_static/class2/router01_cache_view_details.png
 

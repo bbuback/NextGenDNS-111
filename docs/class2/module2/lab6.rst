@@ -46,10 +46,10 @@ https://router01.branch01.example.com/tmui/Control/jspmap/tmui/dns/listener/crea
 
 .. admonition:: TMSH
 
-   tmsh create gtm listener DC01_tcp_virtual address 10.1.20.200 port 53 ip-protocol tcp pool branch01_dns_pool profiles add { example.com_dns_profile  example.com_tcp-dns_profile } vlans add { branch01_vlan } vlans-enabled
+   tmsh create gtm listener DC01_tcp_53_virtual address 10.1.20.200 port 53 ip-protocol tcp pool branch01_dns_pool profiles add { example.com_dns_profile  example.com_tcp-dns_profile } vlans add { branch01_vlan } vlans-enabled
 
 .. admonition:: TMSH
 
-   tmsh create gtm listener DC02_tcp_virtual address 10.1.20.210 port 53 ip-protocol tcp pool branch01_dns_pool profiles add { example.com_dns_profile  example.com_tcp-dns_profile } vlans add { branch01_vlan } vlans-enabled
+   tmsh create gtm listener DC02_tcp_53_virtual address 10.1.20.210 port 53 ip-protocol tcp pool branch01_dns_pool profiles add { example.com_dns_profile  example.com_tcp-dns_profile } vlans add { branch01_vlan } vlans-enabled
 
-https://support.f5.com/kb/en-us/products/big-ip_ltm/manuals/product/bigip-dns-cache-implementations-11-3-0/2.html
+https://support.f5.com/kb/en-us/products/big-ip_ltm/manuals/product/bigip-dns-services-implementations-13-1-0/7.html

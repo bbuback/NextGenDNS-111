@@ -5,7 +5,7 @@ A DNS application specific health monitor provides intelligence in the steering 
 
 .. image:: /_static/class2/monitors.png
 
-Navigate to: **Delivery : Load Balancing : Monitors**
+Navigate to: **DNS >> Delivery : Load Balancing : Monitors**
 
 .. image:: /_static/class2/class2_create_health-monitor_flyout.png
 

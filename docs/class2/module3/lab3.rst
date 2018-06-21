@@ -11,7 +11,7 @@ The BIG-IP will now be an authoratative slave for the example.com zone.  This pr
 You can use the **dnsxdump** utility to view the DNS Express database information, which includes zone information and statistics.
 
    * The **DB Dump** section of the **dnsxdump** utility output displays the zone information for all configured DNS Express zones.
-   * -The **DB Stats** section of the **dnsxdump** utility output displays a cumulative count of records for all configured DNS Express zones.
+   * The **DB Stats** section of the **dnsxdump** utility output displays a cumulative count of records for all configured DNS Express zones.
 
 #. Using putty from the taskbar, log in to router01.branch01.example.com using u: root p: default 
  

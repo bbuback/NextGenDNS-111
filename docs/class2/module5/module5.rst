@@ -40,4 +40,4 @@ https://router01.branch01.example.com/tmui/Control/jspmap/tmui/dns/cache/create.
 
    tmsh create ltm dns cache validating-resolver validating-resolver_cache answer-default-zones yes
 
-https://support.f5.com/kb/en-us/products/big-ip-dns/manuals/product/bigip-dns-services-implementations-12-1-0/7.html#guid-d4548549-b4e2-4dae-9ada-3ea00eb84c1f
+https://support.f5.com/kb/en-us/products/big-ip_ltm/manuals/product/bigip-dns-services-implementations-13-1-0/7.html

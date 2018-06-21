@@ -3,7 +3,7 @@ Load Balancing
 
 Augment and scale an existing DNS infrastructure by Load Balancing DNS queries across a pool of DNS servers.
 
-Navigate to: **Delivery : Load Balancing : Pools : Pool List**
+Navigate to: **DNS >> Delivery : Load Balancing : Pools : Pool List**
 
 .. image:: /_static/class2/class2_dns__pool_create_flyout.png
 
