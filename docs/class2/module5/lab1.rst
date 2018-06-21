@@ -3,9 +3,15 @@ Trust Anchors
 
 Create a trust anchor to validate content in a DNS response.
 
+We will use the terminal emulator window for this task because it's easier to copy and paste than from the Putty window. You will find the terminal emulator icon in the task bar at the bottom of the jumpbox desktop (black square with $).
+
 Using a terminal emulator window, ssh into router01.branch01 (10.1.10.245) and run the following commands:
 
 .. image:: /_static/class2/ssh.png
+
+
+
+You can copy and paste the commands below to ensure correct syntax.
 
 .. admonition:: TMSH
 

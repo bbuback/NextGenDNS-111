@@ -16,7 +16,7 @@ Create a DNS Express zone according to the following table:
    "Name", "example.com"
    "Server", "dc01.example.com"
    "Allow NOTIFY From", "10.1.20.200"
-   "Verfiy Notify TSIG", "disable"
+   "Verfiy Notify TSIG", "disable (uncheck box)"
 
 .. image:: /_static/class2/create_dnsxpress_zone_example.png
 

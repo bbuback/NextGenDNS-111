@@ -11,6 +11,8 @@ https://router01.branch01.example.com/tmui/Control/jspmap/tmui/dns/listener/list
 
 Create two TCP listeners according to the table below:
 
+**Pro-tip: You can use the 'Repeat' button to easily create the second virtual server**
+
 .. csv-table::
    :header: "Setting", "Value"
    :widths: 15, 15
