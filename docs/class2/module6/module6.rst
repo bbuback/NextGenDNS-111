@@ -5,7 +5,7 @@ Response Policy Zone will be turned on to stop clients from trying to resolve bl
 
 .. image:: /_static/class2/rpz.png
 
-https://support.f5.com/kb/en-us/products/big-ip-dns/manuals/product/bigip-dns-services-implementations-12-1-0/8.html
+https://support.f5.com/kb/en-us/products/big-ip_ltm/manuals/product/bigip-dns-services-implementations-13-1-0/9.html
 
 .. toctree::
    :hidden:
