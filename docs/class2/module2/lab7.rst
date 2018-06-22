@@ -32,9 +32,11 @@ Login to router01 (bigip) using Putty from your application bar at the bottom of
 
    .. image:: /_static/class2/tmsh_show_ltm_dns_cache_records.png
 
+To view the cache statistics similar to what you saw in the GUI you can use:
+
    .. admonition:: TMSH
 
-      show ltm dns cache transparent transparent_cache
+      tmsh show ltm dns cache transparent transparent_cache
 
 #. Clearing Entire Cache
 
