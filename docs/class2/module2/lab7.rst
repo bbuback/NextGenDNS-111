@@ -12,7 +12,7 @@ Results
       dig www.umich.edu
       dig www.example.com
 
-#. Viewing Cache Entries
+#. Viewing Cache Statistics
 
    Navigate to: **Statistics  ››  Module Statistics : DNS : Caches  ››  Caches** and then choose **Caches** from the 'Statistics Type' drop-down. 
 
@@ -23,6 +23,8 @@ Results
    .. image:: /_static/class2/router01_cache_view_details.png
 
    https://router01.branch01.example.com/tmui/Control/jspmap/tmui/dns/cache/stats_detail.jsp?name=/Common/transparent_cache
+
+Login to router01 (bigip) using Putty from your application bar at the bottom of your desktop.  You can view the contents of the cache with the following TMSH command:
 
    .. admonition:: TMSH
 
