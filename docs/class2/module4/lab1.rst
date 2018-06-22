@@ -17,7 +17,7 @@ Create zone signing key according the following table:
    Certificate, default.crt
    Private Key, default.key
 
-.. image:: /_static/class2/dnssec-zsk.png
+.. image:: /_static/class2/mod4lab1-zsk.png
 
 https://router01.branch01.example.com/tmui/Control/jspmap/tmui/dns/dnssec_key/create.jsp
 

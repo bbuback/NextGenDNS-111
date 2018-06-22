@@ -7,13 +7,13 @@ Navigate to: **DNS  ››  Delivery : Listeners : Listener List**
 
 .. image:: /_static/class2/listener-assignment-1.png
 
-Navigate to the listener DC01_udp_virtual 
+Navigate to the listener DC01_udp_53_virtual 
 
-.. image:: /_static/class2/listener-assignment-2-c.png
+.. image:: /_static/class2/mod7lab2-listener.png
 
 Navigate to iRules section
 
-.. image:: /_static/class2/irule-assignment-3-c.png
+.. image:: /_static/class2/mod7lab2-irule.png
 
 Navigate to Manage
 

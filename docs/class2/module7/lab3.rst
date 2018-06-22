@@ -7,11 +7,11 @@ tail -f /var/log/ltm
 
 From the Workstation command prompt run "dig example.com" and check for the results
 
-.. image:: /_static/class2/examplecom.png
+.. image:: /_static/class2/mod7lab3-results1.png
 
 From the Workstation command prompt run "dig sex.com" and check for the results
  
-.. image:: /_static/class2/pornocom.png
+.. image:: /_static/class2/mod7lab3-results2.png
 
 Navigate to: **DNS  ››  Delivery : iRules : iRules List**
 
@@ -27,4 +27,4 @@ Try opening a web broswer and navigating to www.foxnews.com
 
 From the Workstation command prompt run "dig cnn.com" and check for the results
 
-.. image:: /_static/class2/url_filtering.png 
+.. image:: /_static/class2/mod7lab3-results3.png 

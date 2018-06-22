@@ -1,7 +1,7 @@
 Results
 ##################################
 
-#. From the jumpbox open a command prompt, perform several recursive queries to your new listener to test.
+#. From the jumpbox open a terminal emulator window (black square icon with $ on the bottom application bar), and perform several recursive queries to your new listener to test.
 
    Repeat some of the same queries multiple times
 
@@ -40,5 +40,5 @@ Results
 
    Set "Statistics Type" to "Caches".
 
-   Select the cache and click "Clear Cache" to empty the cache.
+   Select the cache and click "Clear Cache" to empty the cache. Note, this will clear the actual DNS cache on the BIG-IP. If you want to clear the cache statistics, select the cache and hit the **Reset** button.
 

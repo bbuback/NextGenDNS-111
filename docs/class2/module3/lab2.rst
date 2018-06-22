@@ -18,7 +18,7 @@ Create a DNS Express zone according to the following table:
    "Allow NOTIFY From", "10.1.20.200"
    "Verfiy Notify TSIG", "disable (uncheck box)"
 
-.. image:: /_static/class2/create_dnsxpress_zone_example.png
+.. image:: /_static/class2/mod3lab2-newzone.png
 
 https://router01.branch01.example.com/tmui/Control/jspmap/tmui/dns/zone/create.jsp
 

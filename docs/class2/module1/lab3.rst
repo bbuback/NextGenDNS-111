@@ -3,8 +3,6 @@ Results
 
 #. Navigate to: **DNS  ››  Delivery : Load Balancing : Pools : Pool List**
 
-   Click to select the branch01_dns_pool, and then click "Members"
-
    .. image:: /_static/class2/class2_cache_listpool_flyout.png
 
    https://router01.branch01.example.com/tmui/Control/jspmap/tmui/dns/pool/list.jsp
@@ -17,7 +15,7 @@ Results
 
 #. Notice the health status of the existing DNS infrastructure.
 
-   .. image:: /_static/class2/class2_ltmpool_wthone_down_member.png
+   .. image:: /_static/class2/mod1lab3.png
 
    .. admonition:: TMSH
 
