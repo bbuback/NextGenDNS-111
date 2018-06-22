@@ -23,4 +23,4 @@ You can use the **dnsxdump** utility to view the DNS Express database informatio
 
    Examine the results
 
-   .. image:: /_static/class2/mod3lab3-dnsxdump.png
+   .. image:: /_static/class2/mod3lab3.png
