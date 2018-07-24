@@ -6,6 +6,5 @@ DNS Services
    :caption: Contents:
    :glob:
 
-   #intro.rst
    class*/class*
    credits.rst
