@@ -6,6 +6,7 @@ The internal DNS servers are authoritative for example.com so we need to slave t
 After this module is complete the BIG-IP will become an authoritative slave.
 
 .. image:: /_static/class2/hidden_masters.png
+  
 https://support.f5.com/kb/en-us/products/big-ip_ltm/manuals/product/bigip-dns-services-implementations-13-1-0/1.html
 
 .. toctree::
@@ -14,3 +15,4 @@ https://support.f5.com/kb/en-us/products/big-ip_ltm/manuals/product/bigip-dns-se
    :glob:
 
    lab*
+
